@@ -1,3 +1,8 @@
+This fork
+=========
+
+Python3 version of BOLOS.
+
 BOLOS
 =====
 
